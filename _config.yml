@@ -10,10 +10,10 @@ title: The Daily Story
 email: filip@fis.name
 description: > # this means to ignore newlines until "baseurl:"
   Daily comic strip based on the words from the Sketch a Day challenge
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cz-fish.github.io/daily-story" # the base hostname & protocol for your site
-#baseurl: "/daily-story" # the subpath of your site, e.g. /blog
-#url: "https://cz-fish.github.io" # the base hostname & protocol for your site
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://cz-fish.github.io/daily-story" # the base hostname & protocol for your site
+baseurl: "/daily-story" # the subpath of your site, e.g. /blog
+url: "https://cz-fish.github.io" # the base hostname & protocol for your site
 github_username:  cz-fish
 
 # Build settings
