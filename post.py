@@ -25,7 +25,7 @@ date:   {date.strftime('%Y-%m-%d')} 00:00:00 +0000
 categories: {STORY}
 ---
 
-![{title}](../{STORY}/{pic.replace(' ', '%20')})
+![{title}]({STORY}/{pic.replace(' ', '%20')})
 """,
             file=f)
 
