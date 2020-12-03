@@ -16,6 +16,7 @@ for pic in pics:
     title = m.group(2)
     fname = f"_posts/{date.strftime('%Y-%m-%d')}-{title}.md"
     title = title[0].upper() + title[1:]
+    url = f"{STORY}/{pic.replace(' ', '%20')}"
 
     with open(fname, 'wt') as f:
         print(f"""---
@@ -25,7 +26,7 @@ date:   {date.strftime('%Y-%m-%d')} 00:00:00 +0000
 categories: {STORY}
 ---
 
-![{title}]({STORY}/{pic.replace(' ', '%20')})
+[![{title}]({url})]({url})
 """,
             file=f)
 
