@@ -1,5 +1,7 @@
 # Daily Story blog
 
+https://cz-fish.github.io/daily-story/#
+
 This is built with Jekyll and only slightly modified default template.
 
 ## Posting new update
