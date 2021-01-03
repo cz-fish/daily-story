@@ -4,8 +4,6 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">The Spaceboy</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -13,7 +11,11 @@ layout: default
           {{ post.title }}
           <!--<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>-->
         </h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
+          {% for story in post.categories %}
+          (Story: <a href="{{ site.baseurl | append: "/story/" | append: story }}">{{ story }}</a>)
+          {% endfor %}
+        </span>
         <div class="page-content">
           <div class="wrapper">
             {{ post.content }}
