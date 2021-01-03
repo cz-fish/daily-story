@@ -18,3 +18,11 @@ github_username:  cz-fish
 
 # Build settings
 markdown: kramdown
+
+jekyll-archives:
+  enabled:
+    - categories
+  layout: by_category
+  permalinks:
+    category: '/story/:name/'
+
