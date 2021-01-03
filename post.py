@@ -26,7 +26,7 @@ date:   {date.strftime('%Y-%m-%d')} 00:00:00 +0000
 categories: {STORY}
 ---
 
-[![{title}]({url})]({url})
+[![{title}]({{{{ site.baseurl }}}}/{url})]({{{{ site.baseurl }}}}/{url})
 """,
             file=f)
 
