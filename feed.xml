@@ -1,30 +1,154 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>The Daily Story</title>
+    <description>Daily comic strip based on the words from the Sketch a Day challenge
+</description>
+    <link>https://cz-fish.github.io/daily-story/</link>
+    <atom:link href="https://cz-fish.github.io/daily-story/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Jan 2021 00:10:52 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2021 00:10:52 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Fruit</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/unsorted/210104%20-%20fruit.png&quot;&gt;&lt;img src=&quot;/daily-story/unsorted/210104%20-%20fruit.png&quot; alt=&quot;Fruit&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/unsorted/2021/01/04/fruit.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/unsorted/2021/01/04/fruit.html</guid>
+        
+        
+        <category>unsorted</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Crab</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/spaceboy/48%20-%20crab.png&quot;&gt;&lt;img src=&quot;/daily-story/spaceboy/48%20-%20crab.png&quot; alt=&quot;Crab&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/spaceboy/2021/01/01/crab.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2021/01/01/crab.html</guid>
+        
+        
+        <category>spaceboy</category>
+        
+      </item>
+    
+      <item>
+        <title>Bones</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/spaceboy/47%20-%20bones.png&quot;&gt;&lt;img src=&quot;/daily-story/spaceboy/47%20-%20bones.png&quot; alt=&quot;Bones&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/spaceboy/2020/12/31/bones.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2020/12/31/bones.html</guid>
+        
+        
+        <category>spaceboy</category>
+        
+      </item>
+    
+      <item>
+        <title>Step</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/spaceboy/46%20-%20step.png&quot;&gt;&lt;img src=&quot;/daily-story/spaceboy/46%20-%20step.png&quot; alt=&quot;Step&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/spaceboy/2020/12/30/step.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2020/12/30/step.html</guid>
+        
+        
+        <category>spaceboy</category>
+        
+      </item>
+    
+      <item>
+        <title>Woods</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/spaceboy/45%20-%20woods.png&quot;&gt;&lt;img src=&quot;/daily-story/spaceboy/45%20-%20woods.png&quot; alt=&quot;Woods&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/spaceboy/2020/12/29/woods.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2020/12/29/woods.html</guid>
+        
+        
+        <category>spaceboy</category>
+        
+      </item>
+    
+      <item>
+        <title>Cookie</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/spaceboy/44%20-%20cookie.png&quot;&gt;&lt;img src=&quot;/daily-story/spaceboy/44%20-%20cookie.png&quot; alt=&quot;Cookie&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/spaceboy/2020/12/28/cookie.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2020/12/28/cookie.html</guid>
+        
+        
+        <category>spaceboy</category>
+        
+      </item>
+    
+      <item>
+        <title>Holland</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/spaceboy/43%20-%20holland.png&quot;&gt;&lt;img src=&quot;/daily-story/spaceboy/43%20-%20holland.png&quot; alt=&quot;Holland&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/spaceboy/2020/12/27/holland.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2020/12/27/holland.html</guid>
+        
+        
+        <category>spaceboy</category>
+        
+      </item>
+    
+      <item>
+        <title>Decide</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/spaceboy/42%20-%20decide.png&quot;&gt;&lt;img src=&quot;/daily-story/spaceboy/42%20-%20decide.png&quot; alt=&quot;Decide&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/spaceboy/2020/12/26/decide.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2020/12/26/decide.html</guid>
+        
+        
+        <category>spaceboy</category>
+        
+      </item>
+    
+      <item>
+        <title>Elf</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/spaceboy/41%20-%20elf.png&quot;&gt;&lt;img src=&quot;/daily-story/spaceboy/41%20-%20elf.png&quot; alt=&quot;Elf&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/spaceboy/2020/12/25/elf.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2020/12/25/elf.html</guid>
+        
+        
+        <category>spaceboy</category>
+        
+      </item>
+    
+      <item>
+        <title>Eve</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/spaceboy/40%20-%20eve.png&quot;&gt;&lt;img src=&quot;/daily-story/spaceboy/40%20-%20eve.png&quot; alt=&quot;Eve&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/spaceboy/2020/12/24/eve.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2020/12/24/eve.html</guid>
+        
+        
+        <category>spaceboy</category>
+        
+      </item>
+    
   </channel>
 </rss>
