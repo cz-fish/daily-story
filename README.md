@@ -17,5 +17,15 @@ cd local
 python3.8 -m http.server
 ```
 
+Note that because `jekyll build` includes the `local` symlink in the built `_site`, things can sometimes get weird and the build fails with
+
+```
+jekyll 3.1.6 | Error:  No such file or directory @ rb_file_s_stat - <some file under local/>
+```
+
+Just deleting `_site/local` and running `jekyll build` again seems to do the trick.
+
+TODO: it seems that there might also be `jekyll serve` command which might solve these difficulties.
+
 ## Notes
 By default, the width of the images is limited on the index page. To make the images clickable / expandable, I use [lightbox plugin](https://jekyllcodex.org/without-plugin/lightbox). It only works on links, so every picture in every post is wrapped in a link. The script itself is included in the footer. It is included by a relative path that might not work on all pages, but works on the index. That is required when testing locally, but for github deployment, it could have the full path.
