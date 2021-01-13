@@ -6,7 +6,8 @@ import re
 
 BASE_DATES = {
     'spaceboy': datetime.date(2020, 11, 15),
-    'unsorted': datetime.date(2020, 11, 15)
+    'unsorted': datetime.date(2020, 11, 15),
+    'mystery': datetime.date(2021, 1, 13)
 }
 STORIES = list(BASE_DATES.keys())
 
