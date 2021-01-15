@@ -6,9 +6,23 @@
 </description>
     <link>https://cz-fish.github.io/daily-story/</link>
     <atom:link href="https://cz-fish.github.io/daily-story/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Jan 2021 01:04:49 +0000</pubDate>
-    <lastBuildDate>Fri, 15 Jan 2021 01:04:49 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Jan 2021 23:53:23 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Jan 2021 23:53:23 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Five</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/mystery/210116%20-%20five.png&quot;&gt;&lt;img src=&quot;/daily-story/mystery/210116%20-%20five.png&quot; alt=&quot;Five&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/mystery/2021/01/16/five.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/mystery/2021/01/16/five.html</guid>
+        
+        
+        <category>mystery</category>
+        
+      </item>
     
       <item>
         <title>Yard</title>
@@ -130,20 +144,6 @@
         <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
         <link>https://cz-fish.github.io/daily-story/spaceboy/2020/12/31/bones.html</link>
         <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2020/12/31/bones.html</guid>
-        
-        
-        <category>spaceboy</category>
-        
-      </item>
-    
-      <item>
-        <title>Step</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/spaceboy/46%20-%20step.png&quot;&gt;&lt;img src=&quot;/daily-story/spaceboy/46%20-%20step.png&quot; alt=&quot;Step&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://cz-fish.github.io/daily-story/spaceboy/2020/12/30/step.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/spaceboy/2020/12/30/step.html</guid>
         
         
         <category>spaceboy</category>
