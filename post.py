@@ -9,6 +9,7 @@ BASE_DATES = {
     'unsorted': datetime.date(2020, 11, 15),
     'mystery': datetime.date(2021, 1, 13),
     'rally': datetime.date(2021, 10, 1),
+    'aoc21': datetime.date(2021, 12, 1),
 }
 STORIES = list(BASE_DATES.keys())
 
@@ -19,7 +20,7 @@ def make_story(story):
     global produced_posts
     pics = os.listdir(story)
     for pic in pics:
-        m = re.search(r'(\d+) - (.*)\.png', pic)
+        m = re.search(r'(\d+) - (.*)\.(png|jpg|jpeg)', pic)
         if m is None:
             continue
 
