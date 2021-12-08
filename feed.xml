@@ -6,9 +6,37 @@
 </description>
     <link>https://cz-fish.github.io/daily-story/</link>
     <atom:link href="https://cz-fish.github.io/daily-story/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Dec 2021 22:23:28 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Dec 2021 22:23:28 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Dec 2021 01:05:41 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Dec 2021 01:05:41 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Lanternfish</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211206%20-%20Lanternfish.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211206%20-%20Lanternfish.jpg&quot; alt=&quot;Lanternfish&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/06/Lanternfish.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/06/Lanternfish.html</guid>
+        
+        
+        <category>aoc21</category>
+        
+      </item>
+    
+      <item>
+        <title>Hydrothermal Venture</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211205%20-%20Hydrothermal%20Venture.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211205%20-%20Hydrothermal%20Venture.jpg&quot; alt=&quot;Hydrothermal Venture&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/05/Hydrothermal-Venture.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/05/Hydrothermal-Venture.html</guid>
+        
+        
+        <category>aoc21</category>
+        
+      </item>
     
       <item>
         <title>Giant Squid</title>
@@ -116,34 +144,6 @@
         <pubDate>Sun, 31 Oct 2021 01:00:00 +0100</pubDate>
         <link>https://cz-fish.github.io/daily-story/rally/2021/10/31/risk.html</link>
         <guid isPermaLink="true">https://cz-fish.github.io/daily-story/rally/2021/10/31/risk.html</guid>
-        
-        
-        <category>rally</category>
-        
-      </item>
-    
-      <item>
-        <title>Slither</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/rally/30%20-%20slither.png&quot;&gt;&lt;img src=&quot;/daily-story/rally/30%20-%20slither.png&quot; alt=&quot;Slither&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 30 Oct 2021 01:00:00 +0100</pubDate>
-        <link>https://cz-fish.github.io/daily-story/rally/2021/10/30/slither.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/rally/2021/10/30/slither.html</guid>
-        
-        
-        <category>rally</category>
-        
-      </item>
-    
-      <item>
-        <title>Patch</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/rally/29%20-%20patch.png&quot;&gt;&lt;img src=&quot;/daily-story/rally/29%20-%20patch.png&quot; alt=&quot;Patch&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 29 Oct 2021 01:00:00 +0100</pubDate>
-        <link>https://cz-fish.github.io/daily-story/rally/2021/10/29/patch.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/rally/2021/10/29/patch.html</guid>
         
         
         <category>rally</category>
