@@ -6,9 +6,37 @@
 </description>
     <link>https://cz-fish.github.io/daily-story/</link>
     <atom:link href="https://cz-fish.github.io/daily-story/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Dec 2021 01:05:41 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Dec 2021 01:05:41 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Dec 2021 02:06:54 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Dec 2021 02:06:54 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Seven Segment Search</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211208%20-%20Seven%20Segment%20Search.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211208%20-%20Seven%20Segment%20Search.jpg&quot; alt=&quot;Seven Segment Search&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/08/Seven-Segment-Search.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/08/Seven-Segment-Search.html</guid>
+        
+        
+        <category>aoc21</category>
+        
+      </item>
+    
+      <item>
+        <title>The Treachery of Whales</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211207%20-%20The%20Treachery%20of%20Whales.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211207%20-%20The%20Treachery%20of%20Whales.jpg&quot; alt=&quot;The Treachery of Whales&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/07/The-Treachery-of-Whales.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/07/The-Treachery-of-Whales.html</guid>
+        
+        
+        <category>aoc21</category>
+        
+      </item>
     
       <item>
         <title>Lanternfish</title>
@@ -119,34 +147,6 @@
         
         
         <category>unsorted</category>
-        
-      </item>
-    
-      <item>
-        <title>Cop</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/rally/32%20-%20cop.png&quot;&gt;&lt;img src=&quot;/daily-story/rally/32%20-%20cop.png&quot; alt=&quot;Cop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-        <link>https://cz-fish.github.io/daily-story/rally/2021/11/01/cop.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/rally/2021/11/01/cop.html</guid>
-        
-        
-        <category>rally</category>
-        
-      </item>
-    
-      <item>
-        <title>Risk</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/rally/31%20-%20risk.png&quot;&gt;&lt;img src=&quot;/daily-story/rally/31%20-%20risk.png&quot; alt=&quot;Risk&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 31 Oct 2021 01:00:00 +0100</pubDate>
-        <link>https://cz-fish.github.io/daily-story/rally/2021/10/31/risk.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/rally/2021/10/31/risk.html</guid>
-        
-        
-        <category>rally</category>
         
       </item>
     
