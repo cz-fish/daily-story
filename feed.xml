@@ -6,9 +6,37 @@
 </description>
     <link>https://cz-fish.github.io/daily-story/</link>
     <atom:link href="https://cz-fish.github.io/daily-story/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Dec 2021 21:30:35 +0000</pubDate>
-    <lastBuildDate>Wed, 15 Dec 2021 21:30:35 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Dec 2021 22:25:07 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Dec 2021 22:25:07 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Transparent Origami</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211213%20-%20Transparent%20Origami.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211213%20-%20Transparent%20Origami.jpg&quot; alt=&quot;Transparent Origami&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/13/Transparent-Origami.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/13/Transparent-Origami.html</guid>
+        
+        
+        <category>aoc21</category>
+        
+      </item>
+    
+      <item>
+        <title>Passage Pathing</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211212%20-%20Passage%20Pathing.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211212%20-%20Passage%20Pathing.jpg&quot; alt=&quot;Passage Pathing&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/12/Passage-Pathing.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/12/Passage-Pathing.html</guid>
+        
+        
+        <category>aoc21</category>
+        
+      </item>
     
       <item>
         <title>Dumbo Octopus</title>
@@ -116,34 +144,6 @@
         <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
         <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/04/Giant-Squid.html</link>
         <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/04/Giant-Squid.html</guid>
-        
-        
-        <category>aoc21</category>
-        
-      </item>
-    
-      <item>
-        <title>Binary Diagnostic</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211203%20-%20Binary%20Diagnostic.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211203%20-%20Binary%20Diagnostic.jpg&quot; alt=&quot;Binary Diagnostic&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/03/Binary-Diagnostic.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/03/Binary-Diagnostic.html</guid>
-        
-        
-        <category>aoc21</category>
-        
-      </item>
-    
-      <item>
-        <title>Dive</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211202%20-%20Dive.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211202%20-%20Dive.jpg&quot; alt=&quot;Dive&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/02/Dive.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/02/Dive.html</guid>
         
         
         <category>aoc21</category>
