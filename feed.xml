@@ -6,9 +6,23 @@
 </description>
     <link>https://cz-fish.github.io/daily-story/</link>
     <atom:link href="https://cz-fish.github.io/daily-story/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Dec 2021 22:36:53 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Dec 2021 22:36:53 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Jan 2022 15:00:57 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Jan 2022 15:00:57 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Co snídá chasa</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/císařův-pizzař/220123%20-%20Co%20snídá%20chasa.jpg&quot;&gt;&lt;img src=&quot;/daily-story/císařův-pizzař/220123%20-%20Co%20snídá%20chasa.jpg&quot; alt=&quot;Co snídá chasa&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/c%C3%ADsa%C5%99%C5%AFv-pizza%C5%99/2022/01/23/Co-sn%C3%ADd%C3%A1-chasa.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/c%C3%ADsa%C5%99%C5%AFv-pizza%C5%99/2022/01/23/Co-sn%C3%ADd%C3%A1-chasa.html</guid>
+        
+        
+        <category>císařův-pizzař</category>
+        
+      </item>
     
       <item>
         <title>The End</title>
@@ -130,20 +144,6 @@
         <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
         <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/19/Beacon-Scanner.html</link>
         <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/19/Beacon-Scanner.html</guid>
-        
-        
-        <category>aoc21</category>
-        
-      </item>
-    
-      <item>
-        <title>Snailfish</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211218%20-%20Snailfish.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211218%20-%20Snailfish.jpg&quot; alt=&quot;Snailfish&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/18/Snailfish.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/18/Snailfish.html</guid>
         
         
         <category>aoc21</category>
