@@ -6,9 +6,51 @@
 </description>
     <link>https://cz-fish.github.io/daily-story/</link>
     <atom:link href="https://cz-fish.github.io/daily-story/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Apr 2022 00:10:58 +0100</pubDate>
-    <lastBuildDate>Thu, 28 Apr 2022 00:10:58 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Sun, 03 Dec 2023 11:25:34 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Dec 2023 11:25:34 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Cube Conundrum</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc23/231202%20-%20Cube%20Conundrum.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc23/231202%20-%20Cube%20Conundrum.jpg&quot; alt=&quot;Cube Conundrum&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/aoc23/2023/12/02/Cube-Conundrum.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc23/2023/12/02/Cube-Conundrum.html</guid>
+        
+        
+        <category>aoc23</category>
+        
+      </item>
+    
+      <item>
+        <title>Trebuchet</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc23/231201%20-%20Trebuchet.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc23/231201%20-%20Trebuchet.jpg&quot; alt=&quot;Trebuchet&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/aoc23/2023/12/01/Trebuchet.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc23/2023/12/01/Trebuchet.html</guid>
+        
+        
+        <category>aoc23</category>
+        
+      </item>
+    
+      <item>
+        <title>Intro</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc23/231201%20-%20Intro.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc23/231201%20-%20Intro.jpg&quot; alt=&quot;Intro&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/aoc23/2023/12/01/Intro.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc23/2023/12/01/Intro.html</guid>
+        
+        
+        <category>aoc23</category>
+        
+      </item>
     
       <item>
         <title>Laugh</title>
@@ -102,48 +144,6 @@
         <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
         <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/24/Arithmetic-Logic-Unit.html</link>
         <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/24/Arithmetic-Logic-Unit.html</guid>
-        
-        
-        <category>aoc21</category>
-        
-      </item>
-    
-      <item>
-        <title>Amphipod</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211223%20-%20Amphipod.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211223%20-%20Amphipod.jpg&quot; alt=&quot;Amphipod&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/23/Amphipod.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/23/Amphipod.html</guid>
-        
-        
-        <category>aoc21</category>
-        
-      </item>
-    
-      <item>
-        <title>Reactor Reboot</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211222%20-%20Reactor%20Reboot.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211222%20-%20Reactor%20Reboot.jpg&quot; alt=&quot;Reactor Reboot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/22/Reactor-Reboot.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/22/Reactor-Reboot.html</guid>
-        
-        
-        <category>aoc21</category>
-        
-      </item>
-    
-      <item>
-        <title>Dirac Dice</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211221%20-%20Dirac%20Dice.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211221%20-%20Dirac%20Dice.jpg&quot; alt=&quot;Dirac Dice&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/21/Dirac-Dice.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/21/Dirac-Dice.html</guid>
         
         
         <category>aoc21</category>
