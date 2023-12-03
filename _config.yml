@@ -19,7 +19,7 @@ github_username:  cz-fish
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-paginate
 
 paginate: 10
