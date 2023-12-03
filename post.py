@@ -11,6 +11,7 @@ BASE_DATES = {
     'rally': datetime.date(2021, 10, 1),
     'aoc21': datetime.date(2021, 12, 1),
     'císařův-pizzař': datetime.date(2022, 1, 23),
+    'aoc23': datetime.date(2023, 12, 1),
 }
 STORIES = list(BASE_DATES.keys())
 
