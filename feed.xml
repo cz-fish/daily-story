@@ -6,9 +6,23 @@
 </description>
     <link>https://cz-fish.github.io/daily-story/</link>
     <atom:link href="https://cz-fish.github.io/daily-story/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Dec 2023 11:25:34 +0000</pubDate>
-    <lastBuildDate>Sun, 03 Dec 2023 11:25:34 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Dec 2023 16:48:29 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Dec 2023 16:48:29 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Gear Ratios</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc23/231203%20-%20Gear%20Ratios.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc23/231203%20-%20Gear%20Ratios.jpg&quot; alt=&quot;Gear Ratios&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+        <link>https://cz-fish.github.io/daily-story/aoc23/2023/12/03/Gear-Ratios.html</link>
+        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc23/2023/12/03/Gear-Ratios.html</guid>
+        
+        
+        <category>aoc23</category>
+        
+      </item>
     
       <item>
         <title>Cube Conundrum</title>
@@ -130,20 +144,6 @@
         <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
         <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/25/Sea-Cucumber.html</link>
         <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/25/Sea-Cucumber.html</guid>
-        
-        
-        <category>aoc21</category>
-        
-      </item>
-    
-      <item>
-        <title>Arithmetic Logic Unit</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/daily-story/aoc21/211224%20-%20Arithmetic%20Logic%20Unit.jpg&quot;&gt;&lt;img src=&quot;/daily-story/aoc21/211224%20-%20Arithmetic%20Logic%20Unit.jpg&quot; alt=&quot;Arithmetic Logic Unit&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://cz-fish.github.io/daily-story/aoc21/2021/12/24/Arithmetic-Logic-Unit.html</link>
-        <guid isPermaLink="true">https://cz-fish.github.io/daily-story/aoc21/2021/12/24/Arithmetic-Logic-Unit.html</guid>
         
         
         <category>aoc21</category>
